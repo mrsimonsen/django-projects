@@ -1,2 +1,2 @@
 # django-projects
-Django Masterclass: Build 9 Real World Django Projects (Udemy)
+Python Django 4 Masterclass: Build a Real World Project (Udemy)
